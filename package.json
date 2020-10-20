@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "0.0.1",
+  "description": "Practice of webscraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "agora",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
